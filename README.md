@@ -14,5 +14,9 @@ heje
 hehe
 hehe
 hehe
+<<<<<<< HEAD
 
 this is master branch
+=======
+welcome to the branch concept
+>>>>>>> branch1
