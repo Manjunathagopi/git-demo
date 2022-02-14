@@ -17,3 +17,5 @@ hehe
 welcome to the branch concept
 working on stash command
 checking for stash
+
+chekcing on copying 
